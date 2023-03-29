@@ -1,4 +1,5 @@
-Internship
+#**Internship**#
+
 This Repository includes project done at Flip Robo as part of Data Sciene & Machine Learning Internship
 Internship Duration - 6 Months (Sep 2021 - March 2022)
 For some Projects data set was provided while for remaining projects webscraping is done using Selenium before model building
